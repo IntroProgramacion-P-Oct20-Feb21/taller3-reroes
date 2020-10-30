@@ -25,8 +25,22 @@ public class Ejercicio01 {
         // Asignar a la variable promedio el valor de 10.2
         
         
+        // Crear una variable String llamada pais
+        // Asignar a la variable pais el valor de Ecuador
+        
+        
+        /*
         System.out.println(edad);
         System.out.println(promedio);
+        System.out.println(pais);
+        */
+        
+        System.out.println("-------Ejemplos de expresiones------------------");
+        
+        double resultado = (1+2+4+3)/5+Math.sqrt(81);
+        System.out.println(resultado);
+        
+        
     }
     
 }
