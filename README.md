@@ -2,6 +2,8 @@
 
 ### Ejercicio01
 - Analice el proyecto en el IDE Netbeans llamado Ejercicio01 y solucione los errores encontrados.
+- En el proyecto se presenta la solución a la expresión:
+> ![](https://github.com/IntroProgramacion-P-Oct20-Feb21/taller3/blob/main/imagenes/ejercicio1.png)
 
 ### Ejercicio02
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio02
