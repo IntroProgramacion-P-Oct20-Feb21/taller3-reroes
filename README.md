@@ -1,5 +1,7 @@
 # taller3
 
+### Ejercicio01
+- Analice el proyecto en el IDE Netbeans llamado Ejercicio01 y solucione los errores encontrados.
 
 ### Ejercicio02
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio02
@@ -32,3 +34,21 @@
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio07
 - En el método principal (main); genere y presente el resultado en pantalla de la siguiente expresión:
 > ![](https://github.com/IntroProgramacion-P-Oct20-Feb21/taller3/blob/main/imagenes/ejercicio7.png)
+
+
+### Ejercicio08
+- Crear un proyecto en el IDE Netbeans llamado Ejercicio08
+- En el método principal (main); genere y presente el resultado en pantalla de la siguiente expresión:
+> ![](https://github.com/IntroProgramacion-P-Oct20-Feb21/taller3/blob/main/imagenes/ejercicio8.png)
+
+
+### Ejercicio09
+- Crear un proyecto en el IDE Netbeans llamado Ejercicio09
+- En el método principal (main); genere y presente el resultado en pantalla de la siguiente expresión:
+> ![](https://github.com/IntroProgramacion-P-Oct20-Feb21/taller3/blob/main/imagenes/ejercicio9.png)
+
+
+### Ejercicio10
+- Crear un proyecto en el IDE Netbeans llamado Ejercicio10
+- En el método principal (main); genere y presente el resultado en pantalla de la siguiente expresión:
+> ![](https://github.com/IntroProgramacion-P-Oct20-Feb21/taller3/blob/main/imagenes/ejercicio10.png)
