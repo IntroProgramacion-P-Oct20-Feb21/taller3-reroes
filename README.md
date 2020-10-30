@@ -26,3 +26,9 @@
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio06
 - En el método principal (main); genere y presente el resultado en pantalla de la siguiente expresión:
 > ![](https://github.com/IntroProgramacion-P-Oct20-Feb21/taller3/blob/main/imagenes/ejercicio6.png)
+
+
+### Ejercicio07
+- Crear un proyecto en el IDE Netbeans llamado Ejercicio07
+- En el método principal (main); genere y presente el resultado en pantalla de la siguiente expresión:
+> ![](https://github.com/IntroProgramacion-P-Oct20-Feb21/taller3/blob/main/imagenes/ejercicio7.png)
