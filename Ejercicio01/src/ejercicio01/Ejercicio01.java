@@ -29,11 +29,11 @@ public class Ejercicio01 {
         // Asignar a la variable pais el valor de Ecuador
         
         
-        /*
+        
         System.out.println(edad);
         System.out.println(promedio);
         System.out.println(pais);
-        */
+        
         
         System.out.println("-------Ejemplos de expresiones------------------");
         
